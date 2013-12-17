@@ -1,0 +1,6 @@
+[submodule "FBReaderJ"]
+	path = FBReaderJ
+	url = https://github.com/geometer/FBReaderJ
+[submodule "connectbot"]
+	path = connectbot
+	url = https://code.google.com/p/connectbot/
