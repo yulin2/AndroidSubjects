@@ -1,0 +1,7 @@
+Primordial,Java,jarFile,/Library/Java/JavaVirtualMachines/1.6.0_26-b03-386.jdk/Contents/Classes/classes.jar
+Primordial,Java,jarFile,/Users/yulin/Programming/android-sdk-macosx/platforms/android-17/android.jar
+Primordial,Java,jarFile,/Users/yulin/Programming/android-sdk-macosx/add-ons/addon-google_apis-google-17/libs/effects.jar
+Primordial,Java,jarFile,/Users/yulin/Programming/android-sdk-macosx/add-ons/addon-google_apis-google-17/libs/usb.jar
+Primordial,Java,jarFile,/Users/yulin/Programming/android-sdk-macosx/add-ons/addon-google_apis-google-17/libs/maps.jar
+Primordial,Java,jarFile,primordial.jar.model
+Application,Java,binaryDir,/Users/yulin/projects/responsiveness/examples/android/vudroid/bin/classes
